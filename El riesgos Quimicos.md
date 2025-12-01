@@ -10,40 +10,40 @@ El mensaje central del documental es que la exposición a sustancias químicas, 
 Identifica el momento o información del documental que más te ha llamado la atención y explica las razones de su impacto en ti.
 
 ## Respuesta
-La parte más impactante es el caso de Lola, la trabajadora que se intoxicó al limpiar habitaciones de un hotel tras la fumigación sin respetar los plazos de seguridad. Sus síntomas incluyen problemas hormonales, trastornos neurológicos, pérdida de memoria y deterioro general de la salud. Este caso impacta porque muestra la vulnerabilidad de los trabajadores frente a la exposición química y cómo la negligencia laboral puede destruir vidas, evidenciando que no se trata solo de un riesgo abstracto, sino de consecuencias reales y permanentes para las personas.
+El mensaje principal del documental es que la exposición a sustancias químicas, tanto en el trabajo como en la vida diaria, supone un peligro grave y frecuentemente oculto para la salud de las personas. El documental revela cómo estas sustancias pueden acumularse en el cuerpo y modificar el sistema hormonal, provocar enfermedades crónicas y cáncer, y tener un impacto negativo en la calidad de vida de los empleados y de la población general. Asimismo, enfatiza que la supervisión y regulación de estas sustancias con frecuencia no son suficientes y que no siempre se informa a los ciudadanos ni a los empleados acerca de los riesgos.
 
 ## 3. ¿Qué preguntas te quedan después de ver el documental?
 Anota las dudas o interrogantes que han surgido tras visualizar el contenido y que requieren mayor profundización o aclaración.
 
 ## Respuesta
-¿Qué protocolos específicos existen para proteger a los trabajadores expuestos a químicos en distintos sectores?
+¿Cuáles son los protocolos concretos para resguardar a los empleados expuestos a sustancias químicas en diferentes sectores?
 
-¿Cómo se puede medir de manera confiable el efecto de la exposición a mezclas químicas en la salud humana?
+¿Cuál es el método para calcular de forma confiable cómo afecta a la salud humana la exposición a combinaciones químicas?
 
-¿Qué mecanismos existen para sancionar a empresas que no cumplen con medidas de seguridad?
+¿Cuáles son los procedimientos que hay para castigar a las empresas que no implementan medidas de seguridad?
 
-¿Cuál es la evidencia científica más reciente sobre los efectos acumulativos de los químicos de uso cotidiano (cosméticos, alimentos, limpieza)?
+¿Qué es lo más actual en términos de evidencia científica acerca de los efectos acumulativos que tienen las sustancias químicas que empleamos a diario (en alimentos, productos cosméticos y de limpieza)?
 
 ## 4. ¿Qué papel juega la PRL en este aspecto?
 Analiza la importancia de la **Prevención de Riesgos Laborales (PRL)** en la gestión y control de los riesgos químicos en el entorno de trabajo.
 
 ## Respuesta
-La PRL juega un papel fundamental en la protección frente a los riesgos químicos. A través de protocolos, formación, control del uso de sustancias, equipos de protección personal, vigilancia de la salud y regulación de la exposición, la PRL busca minimizar los accidentes, intoxicaciones y enfermedades profesionales. El documental muestra que, cuando estas medidas no se aplican correctamente, los trabajadores pueden sufrir daños graves e irreversibles. La prevención no solo protege la salud, sino que también evita costos económicos y sociales asociados a enfermedades laborales.
+La PRL tiene un rol esencial en la defensa contra los peligros químicos. La PRL intenta reducir las intoxicaciones, accidentes y enfermedades laborales por medio de protocolos, formación, vigilancia de la salud, control del empleo de sustancias, equipos de protección personal y regulación de la exposición. El documental revela que, si estas medidas no se implementan de manera adecuada, los empleados pueden padecer lesiones severas e irreversibles. La prevención no solamente resguarda la salud, sino que además previene los costos sociales y económicos relacionados con las enfermedades laborales.
 
 ## 5. Propón ideas y soluciones a esta problemática
 Desarrolla propuestas concretas y viables que contribuyan a **minimizar los riesgos químicos** y mejorar las condiciones de seguridad laboral.
 
 ## Respuesta
-Implementar capacitaciones periódicas obligatorias sobre manejo seguro de sustancias químicas para todos los trabajadores.
+Realizar entrenamientos obligatorios y periódicos acerca de la manipulación segura de sustancias químicas para todos los empleados.
 
-Garantizar el uso de equipos de protección personal adecuados y revisar periódicamente su estado.
+ Asegurarse de que se empleen los equipos de protección personal correctos y examinar periódicamente su condición.
 
-Etiquetado claro y transparente de todos los productos químicos, incluyendo efectos a largo plazo y riesgos de acumulación.
+ Etiquetado transparente y claro de cada uno de los productos químicos, que incluya tanto los riesgos de acumulación como las consecuencias a largo plazo.
 
-Crear protocolos estrictos de manipulación y almacenamiento, así como planes de emergencia ante intoxicaciones.
+ Establecer procedimientos rigurosos para el manejo y almacenamiento, además de planes de emergencia en casos de intoxicación.
 
-Fomentar química sostenible y sustitución de sustancias peligrosas por alternativas menos nocivas.
+ Promover la química sostenible y reemplazar los compuestos dañinos por otros menos perjudiciales.
 
-Aumentar la vigilancia y regulación estatal para asegurar que las empresas cumplan normas de seguridad y salud.
+ Para garantizar que las compañías acaten las regulaciones de salud y seguridad, es necesario intensificar la supervisión y la regulación estatal.
 
-Promover campañas de concienciación pública sobre los riesgos químicos, tanto en la vida cotidiana como en el entorno laboral.
+ Fomentar campañas de sensibilización pública acerca de los peligros químicos, ya sea en el trabajo o en la vida diaria.
