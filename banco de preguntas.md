@@ -56,6 +56,13 @@ D) Los gustos de los trabajadores
 
 ✔ Respuesta correcta: C
 
+
+20. ¿Qué tipo de riesgos incluye la evaluación según la LPRL?
+a) Físicos, químicos, biológicos, ergonómicos y psicosociales ✅
+b) Solo físicos
+c) Solo químicos y biológicos
+d) Solo ergonómicos
+
 UTD 3 
 
 6. Un riesgo laboral es…
